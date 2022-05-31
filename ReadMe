@@ -1,0 +1,17 @@
+
+# IsoTONE was developed by Eliza Harris in 2021
+
+# See the associated publication for more information and for a list of authors
+### ADD DOI ###
+
+IsoTONE is a WORK IN PROGRESS - do not expect it to run smoothly!
+If you wish to use IsoTONE, please don't hesitate to contact me: eliza.harris@sdsc.ethz.ch
+
+If you want to try IsoTONE:
+- Create environment from the .yml file
+- Run 1_* to get inputs for the model
+- Run 2_* to load the core function to solve soil d15N
+- Run 3_* carefully (look through the code step by step!) to run the MCMC and generate results in the folder MCMC_results
+- Once you have MCMC results, run 4_* to look at the results
+
+

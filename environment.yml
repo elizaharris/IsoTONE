@@ -1,0 +1,17 @@
+name: "isotone"
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy>=1.19.2
+  - pandas>=1.2.4
+  - matplotlib=3.5.0
+  - seaborn=0.11.2
+  - xarray
+  - cartopy
+  - netCDF4
+  - rasterio
+  - pip
+  - pip:
+    - datetime
+prefix: "/opt/conda"
